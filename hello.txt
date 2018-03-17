@@ -1,2 +1,2 @@
 hello world
-hello java9
+hello java10
